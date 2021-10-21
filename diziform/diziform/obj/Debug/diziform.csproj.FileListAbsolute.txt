@@ -1,0 +1,10 @@
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.csproj.AssemblyReference.cache
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.Form1.resources
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.Properties.Resources.resources
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.csproj.GenerateResource.cache
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.csproj.CoreCompileInputs.cache
+C:\Users\snowy\source\repos\diziform\diziform\bin\Debug\diziform.exe.config
+C:\Users\snowy\source\repos\diziform\diziform\bin\Debug\diziform.exe
+C:\Users\snowy\source\repos\diziform\diziform\bin\Debug\diziform.pdb
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.exe
+C:\Users\snowy\source\repos\diziform\diziform\obj\Debug\diziform.pdb
