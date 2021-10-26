@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,43 +34,43 @@ namespace uygulama2
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 diziform = new Form2();
-            diziform.Show();
+            diziform.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Form3 matematikselmetodlar = new Form3();
-            matematikselmetodlar.Show();
+            matematikselmetodlar.ShowDialog();
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
             Form4 matematikselmetodlar2 = new Form4();
-            matematikselmetodlar2.Show();
+            matematikselmetodlar2.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             Form5 labelrefresh = new Form5();
-            labelrefresh.Show();
+            labelrefresh.ShowDialog();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             Form6 ikisayiarasifark = new Form6();
-            ikisayiarasifark.Show();
+            ikisayiarasifark.ShowDialog();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             Form8 zaroyunu = new Form8();
-            zaroyunu.Show();
+            zaroyunu.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             Form9 vizefinalhesaplama = new Form9();
-            vizefinalhesaplama.Show();
+            vizefinalhesaplama.ShowDialog();
         }
     }
 }
