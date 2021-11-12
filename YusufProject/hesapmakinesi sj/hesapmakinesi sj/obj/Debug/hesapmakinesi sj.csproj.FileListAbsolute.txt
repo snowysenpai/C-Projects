@@ -1,0 +1,30 @@
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.exe.config
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.exe
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.pdb
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi_sj.Form1.resources
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi_sj.Properties.Resources.resources
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.GenerateResource.cache
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.CoreCompileInputs.cache
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.exe
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.pdb
+C:\Users\snowy\source\repos\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.AssemblyReference.cache
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.exe.config
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.exe
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.pdb
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.AssemblyReference.cache
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi_sj.Form1.resources
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi_sj.Properties.Resources.resources
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.GenerateResource.cache
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.CoreCompileInputs.cache
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.exe
+C:\Users\snowy\Desktop\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.pdb
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.exe.config
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.exe
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\bin\Debug\hesapmakinesi sj.pdb
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.AssemblyReference.cache
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi_sj.Form1.resources
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi_sj.Properties.Resources.resources
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.GenerateResource.cache
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.csproj.CoreCompileInputs.cache
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.exe
+C:\Users\snowy\Desktop\Masaüstü\201104030_Yusuf_Selimhan_YÜKSEL_Etkinlik1\hesapmakinesi sj\hesapmakinesi sj\obj\Debug\hesapmakinesi sj.pdb
